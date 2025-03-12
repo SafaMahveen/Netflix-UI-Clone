@@ -13,7 +13,8 @@ Author - Safa Mahveen
 - HTML5
 - CSS
 
-
+## Demo of the Netflix UI Clone
+![Netflix UI Clone Demo](images/netflix_clone_gif_demo.gif)
 ## How to Use
 1. Clone this repository:
    ```bash
